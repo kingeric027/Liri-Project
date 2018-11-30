@@ -20,6 +20,12 @@ The Liri Bot is an application that allows users to query information about movi
     ### Examples
     ![Concert-gif](concert-gif.gif)
     
-    ![Concert-gif](movie-this-gif.gif)
+    ![Movie-gif](movie-this-gif.gif)
+    
+     ![Spotify-gif](spotify-gif.gif)
+     
+     ![Do what it says](do-what-it-says.gif)
+    
+    
     
     
