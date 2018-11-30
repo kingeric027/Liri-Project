@@ -8,18 +8,18 @@ The Liri Bot is an application that allows users to query information about movi
 
 2. The user can give the bot 4 different commands.
 
-    -movie-this (Movie Name)
-    ![Movie-gif](movie-this-gif.gif)
+    1. **movie-this <Movie - Name>**
+            ![Movie-gif](movie-this-gif.gif)
     
-    -concert-this (Artist/Band Name)
-     ![Concert-gif](concert-gif.gif)
+    2. **concert-this <Artist/Band - Name>**
+            ![Concert-gif](concert-gif.gif)
     
-    -spotify-this-song (Song-Name)
-     ![Spotify-gif](spotify-gif.gif)
+    3. **spotify-this-song <Song - Name>**
+            ![Spotify-gif](spotify-gif.gif)
     
-    -do-what-it-says
-        -- In the do-what-it-says command the bot reads in a random.txt file and runs the corresponding function for whatever command and search item is stored in that file.
-         ![Do what it says](do-what-it-says.gif)
+    4. **do-what-it-says**
+            -In the do-what-it-says command the bot reads in a random.txt file and runs the corresponding function for whatever command and search item is stored in that file.
+                ![Do what it says](do-what-it-says.gif)
    
     
     
